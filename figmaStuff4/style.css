@@ -1,0 +1,154 @@
+#sectionOne {
+    background-image: url("https://res.cloudinary.com/not-set/image/upload/v1620232044/futurelabs/elevate-nYgy58eb9aw-unsplash_1_1_cmid59.png" );
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 750px;
+    
+}
+.midway{
+    margin-top: 5rem;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    color: aliceblue;
+    margin-top: 20px
+}
+@media only screen and (min-width: 768px) {
+    .midway{
+        margin-top: 22rem;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 1.5rem;
+        line-height: 28px;
+        color: aliceblue;
+    }
+}
+
+#sectionOneButton {
+    width: 150px;
+    height: 2.34rem;
+    left: 7.1rem;
+    top: 49.52rem;
+    border: 0.093rem solid #9C269E;
+    box-sizing: border-box;
+    border-radius: 0.4375;
+
+
+   font-style: normal;
+   font-weight: bold;
+   font-size: 10px;
+   line-height: 1.1875rem;
+   color: #FFFFFF;
+   margin-top: 2px;
+}
+
+.purples {
+    background-image: url("https://res.cloudinary.com/not-set/image/upload/v1620648590/futurelabs/Group_4_yxtez4.png");
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.purple {
+    background-image: url("https://res.cloudinary.com/not-set/image/upload/v1620651273/futurelabs/Rectangle_3_6_reo68x.png");
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+mix-blend-mode: luminosity;
+opacity: 0.85;
+
+}
+
+.white {
+    margin-top: -400px;
+   
+}
+.white2 {
+    margin-top: -100px;
+    margin-bottom: 20px;
+    
+   
+}
+@media only screen and (min-width: 768px) {
+    .white {
+        margin-top: 160px;
+        
+    }
+    .white2{
+        margin-top: 160px;
+    }
+
+}   
+
+@media only screen and (min-width: 768px) {
+    .purples {
+        
+        background-size: cover;
+        
+    }
+    .purple {
+        
+        background-size: cover;
+        
+    }
+
+    #sectionOne2 {
+        top: 900rem;
+        
+    }
+}
+   
+
+@media only screen and (min-width: 768px) {
+    #sectionOne2 {
+    position: relative;
+    top: 125px;
+    }
+
+    
+
+    
+
+
+}
+
+.white3 {
+margin-top: -430px;
+}
+
+
+#sectionOne2 {
+    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url("https://res.cloudinary.com/dekbvdqnb/image/upload/v1620314599/Rectangle_8_nm16hs.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    margin-top: -130px;  
+    
+}
+
+.purpl {
+    background-image: url("https://res.cloudinary.com/not-set/image/upload/v1620656026/futurelabs/Group_5_ax0qnx.png");
+    height: 568px;
+    margin-top: 120px;
+    
+}
+
+@media only screen and (min-width: 768px) {
+   .white3 {
+       margin-top: 320px;
+
+
+   } 
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .purpl {
+        background-size: contain;
+        
+    }
+}
+
+
+    

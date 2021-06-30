@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+}
+
+div{
+    height: 20px;
+    width: 10px;
+    
+    
+    justify-content: space-between;
+}
+.line{
+    position: absolute;
+width: 37px;
+height: 27px;
+left: 1578.15px;
+top: 70px;
+
+
+
+}
+.text{
+    position: absolute;
+width: 503.88px;
+height: 130.53px;
+left: 68.12px;
+top: 577.47px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 106%;
+/* or 53px */
+
+
+color: #FFFFFF;
+
+
+}
+.button{
+    position: absolute;
+width: 364.88px;
+height: 71px;
+left: 68.12px;
+top: 736px;
+
+border: 3px solid #4D0026;
+box-sizing: border-box;
+border-radius: 10px;
+background-color: transparent;
+position: absolute;
+width: 250.71px;
+height: 60.53px;
+left: 100.7px;
+top: 751.24px;
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+}
+
+.img {
+    width: 114rem;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
+    
+}
+
+.h3{
+    position: absolute;
+width: 165.41px;
+height: 31.14px;
+left: 68.12px;
+top: 56px;
+
+font-family: Helvetica Neue LT Pro;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+}
+.h4{
+    position: absolute;
+width: 171.37px;
+height: 29.14px;
+left: 1399.12px;
+top: 58px;
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+}
+.span{
+    position: absolute;
+width: 22.07px;
+height: 0px;
+left: 1558.5px;
+top: 73px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+
+}
+.dropdown{
+    position: absolute;
+width: 27px;
+height: 19px;
+left: 1298.15px;
+top: 63px;
+color: white;
+}
+
+.text-2{
+    position: absolute;
+width: 374.68px;
+height: 151.91px;
+left: 78.12px;
+top: 1424.09px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 45px;
+line-height: 106%;
+/* or 48px */
+
+
+color: #060606;
+}
+.p{
+    position: absolute;
+width: 421.88px;
+height: 75px;
+left: 68.12px;
+top: 1599.09px;
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 165%;
+/* or 25px */
+
+
+}
+.b{
+    
+
+
+    position: absolute;
+width: 324.88px;
+height: 71px;
+left: 68.12px;
+top: 1697.19px;
+background-color: transparent;
+border: 3px solid #4D0026;
+box-sizing: border-box;
+border-radius: 10px;
+color: black;
+font-size: 30px;
+
+}
+.p2{
+    position: absolute;
+width: 421.61px;
+height: 112.81px;
+left: 68.12px;
+top: 1900.19px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 45px;
+line-height: 106%;
+/* or 48px */
+
+
+color: #060606;
+
+}
+.p3{
+    position: absolute;
+width: 435.88px;
+height: 75px;
+left: 68.12px;
+top: 2027.09px;
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 25px;
+/* or 167% */
+
+
+color: #636262;
+
+
+}
+.div-2{
+    position: absolute;
+    width: 720px;
+    height: 656px;
+    margin-left: 1100.58px;
+    top: 1305px;
+    
+    background: #4D0026;
+}
+.f{
+    position: absolute;
+width: 302.7px;
+height: 45.57px;
+left: 200.65px;
+top: 86px;
+
+font-family: Helvetica Neue LT Pro;
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 60px;
+
+color: white;
+
+}
+.iii{
+    position: absolute;
+width: 720px;
+height: 656px;
+margin-left: 1094.8px;
+top: 1880px;
+
+background: rgba(6, 6, 6, 0.45);
+}
+.imgs{
+    position: absolute;
+width: 1840px;
+height: 656px;
+left: 0px;
+top: 2336px;
+
+background: rgba(0, 0, 0, 0.45);
+
+}
+.ts{
+    position: absolute;
+width: 533.88px;
+height: 108.86px;
+left: 68.12px;
+top: 2699.14px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 45px;
+line-height: 45px;
+/* or 100% */
+
+
+color: #FFFFFF;
+}
+.d{
+   background-color: rgb(110, 47, 47);
+   height: 300px;
+   width: 2000px;
+}
+.text-6{
+    position: absolute;
+width: 374.68px;
+height: 151.91px;
+left: 68.12px;
+top: 1424.09px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 45px;
+line-height: 106%;
+/* or 48px */
+
+
+color: #060606;
+}
+
+.apple{
+    height: 700px;
+}
